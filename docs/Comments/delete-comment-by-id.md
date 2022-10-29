@@ -8,7 +8,7 @@ This will delete a comment by the ID passed in by the user and return a Status C
 
 ## Example Response
 
-```js
+```json
 Status 204 - No Content
 
 No body is returned by this endpoint.
