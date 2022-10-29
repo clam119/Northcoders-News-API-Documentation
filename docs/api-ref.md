@@ -17,11 +17,11 @@ slug: /
 - [PATCH /api/articles/:article_id](/Articles/patch-articles-by-id)
 - [DELETE /api/articles/:article_id](/Articles/delete-articles-by-id)
 
-- [GET /api/articles/:article_id/comments](/Articles/get-article-comments)
-- [POST /api/articles/:article_id/comments](/Articles/post-article-comment)
+- [GET /api/articles/:article_id/comments](/Article-Comments/get-article-comments)
+- [POST /api/articles/:article_id/comments](/Article-Comments/post-article-comment)
   
 - [DELETE /api/comments/:comment_id](/Comments/delete-comment-by-id)
 - [PATCH /api/comments/:comment_id](/Comments/patch-comment-by-id)
 
 - [GET /api/users](/Users/get-users)
-- [GET /api/users/:username](/Users/get-users-by-username)
+- [GET /api/users/:username](/Users/get-user-by-username)
