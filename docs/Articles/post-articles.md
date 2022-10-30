@@ -10,10 +10,10 @@ This will post a new article provided the user makes a successful post request w
 
 Accepts the following keys:
 
-- author: String **required** 
-- title: String **required**
-- body: String **required**
-- topic: String **required**
+- author: `String` **required** 
+- title: `String` **required**
+- body: `String` **required**
+- topic: `String` **required**
 
 The `author` key simply refers to the username from the database.
 
@@ -28,7 +28,7 @@ The `author` key simply refers to the username from the database.
 
 ## Example Response
 
-A successful article POST request will respond with all of the properties above as well as the following properties of: article_id, votes, created_at and comment_count. 
+A successful article POST request will respond with all of the properties above as well as the following properties of: `article_id`, `votes`, `created_at` and `comment_count`. 
 
 ```json
 {

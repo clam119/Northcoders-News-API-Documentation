@@ -12,7 +12,7 @@ This will list all of the available articles in the API's database.
 - order: `String` - The user will be able to choose the order at which the articles are displayed: `DESC` for descending and `ASC` for ascending - This is set to descending by default.
 - limit: `Number` - The user will be able to limit the amount of articles displayed by providing a valid number - this is defaulted to 10.
 - p: `Number` - The user will be able to navigate to a specified page.
-- 
+
 
 ## Example Response
 
