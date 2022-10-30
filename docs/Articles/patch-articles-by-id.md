@@ -10,8 +10,8 @@ This will update an article's vote count by what the user passes in.
 
 Accepts the following keys:
 
-- article: Number
-- inc_votes: Number
+- article_id: `Number` **required** 
+- inc_votes: `Number` **required** 
 
 
 ```json
@@ -23,7 +23,7 @@ Accepts the following keys:
 
 ## Example Response
 
-If a successful patch request is mad to the specified comment, then the votes property for that comment will increase by the specified amount.
+If a successful patch request is made to the specified comment, this will result in the votes property for that comment increasing by the specified amount.
 
 ```json
 {

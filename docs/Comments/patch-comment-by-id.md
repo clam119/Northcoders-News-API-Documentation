@@ -10,8 +10,8 @@ This will update a comment's vote count by what the user passes in.
 
 Accepts the following keys:
 
-- comment_id: Number
-- inc_votes: Number
+- comment_id: `Number` **required** 
+- inc_votes: `Number` **required** 
 
 
 ```json
