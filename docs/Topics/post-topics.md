@@ -1,6 +1,6 @@
 ---
 id: post-topics
-title: POST /api/items
+title: POST /api/topics
 sidebar_position: 2
 ---
 
