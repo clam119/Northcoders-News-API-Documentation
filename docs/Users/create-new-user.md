@@ -21,7 +21,7 @@ Upon a successful user creation, the user will have their details returned to th
 {
     "username": "RickRolled",
     "name": "Rick Astley",
-    "avatar_url": "https://i.ibb.co/hZhBmF5/34915.jpg 
+    "avatar_url": "https://i.ibb.co/hZhBmF5/34915.jpg"
 }
 ```
 
@@ -31,6 +31,6 @@ Upon a successful user creation, the user will have their details returned to th
 {
     "username": "RickRolled",
     "name": "Rick Astley",
-    "avatar_url": "https://i.ibb.co/hZhBmF5/34915.jpg 
+    "avatar_url": "https://i.ibb.co/hZhBmF5/34915.jpg"
 }
 ```

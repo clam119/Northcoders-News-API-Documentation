@@ -4,7 +4,7 @@ title: GET /api/topics
 sidebar_position: 1
 ---
 
-This will list all of the available topics in the Northcoders News API.
+This will list all of the available topics in the Northcoders News API that includes the two keys of: `slug` and `description`.
 
 ## Example Response
 

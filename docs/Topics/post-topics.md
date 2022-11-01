@@ -10,10 +10,10 @@ This will post a new topic that's created by the user upon a succesful post requ
 
 Accepts the following keys:
 
-- slug: String **required** 
-- description: String **required**
+- slug: `String` **required** 
+- description: `String` **required**
 
-The `slug` property will reference the topic's name and the description will be the description that the topic has.
+The `slug` property will reference the topic's name and the `description` will be the description of the topic.
 
 ```json
 {

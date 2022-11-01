@@ -4,7 +4,7 @@ title: GET /api/users/:username
 sidebar_position: 2
 ---
 
-Responds with the requested username's profile that includes their username, name and avatar url.
+This will respond with the requested user's profile that includes their: `username`, `name`, and `avatar_url`.
 
 ## Example Response
 
