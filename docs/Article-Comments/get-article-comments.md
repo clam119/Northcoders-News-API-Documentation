@@ -7,14 +7,14 @@ sidebar_position: 1
 This will respond with the comments that a specified article has.
 
 ## Request Queries
-- limit: Number
-- p: Number
+- limit: `Number`
+- p: `Number`
 
-The available queries above will limit the number of comments that will be displayed to the user. By default the value of this will be 10, and "p" stands for the page number that specifies the page at which to start.
+The available queries above will limit the number of comments that will be displayed to the user. By default the value of this will be 10, and `p` stands for the page number that specifies the page at which to start.
 
 ## Example Response
 
-An example request with a limit query of 3 would be: `https://clam119-northcoders-news-api.herokuapp.com/api/articles/1/comments?limit=3` and the response would be: 
+An example request with a limit query of 3 would be: `https://northcoders-news-api-production.up.railway.app/api/articles/1/comments?limit=3` and the response would be: 
 
 ```json
 [

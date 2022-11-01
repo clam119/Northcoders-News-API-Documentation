@@ -4,7 +4,7 @@ title: GET /api/users
 sidebar_position: 1
 ---
 
-Lists all available users
+This will return a list of all of the available users on the database with their: `username`, `name` and `avatar_url`.
 
 ## Example Response
 
@@ -17,7 +17,7 @@ Lists all available users
 	},
     {
       "username": "cooljmessy",
-	  "name": "Peter Messy",
+	    "name": "Peter Messy",
       "avatar_url": "https://vignette.wikia.nocookie.net/mrmen/images/1/1a/MR_MESSY_4A.jpg/revision/latest/scale-to-width-down/250?cb=20170730171002"
     }
   ]
