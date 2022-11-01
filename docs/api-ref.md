@@ -25,3 +25,4 @@ slug: /
 
 - [GET /api/users](/Users/get-users)
 - [GET /api/users/:username](/Users/get-user-by-username)
+- [POST /api/users](/Users/post-new-user)
